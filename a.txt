@@ -1,6 +1,1 @@
-e/test
 
-add f/meikang/test
-
-add china
-add america
